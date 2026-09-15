@@ -1,0 +1,11 @@
+{
+  "slug": "sponsor-cap-auditor",
+  "name": "Sponsor Cap Auditor",
+  "kind": "security",
+  "description": "Model fee and resource caps from v1 transactionConfig for paymasters and co-signers.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
