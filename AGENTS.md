@@ -8,7 +8,7 @@ Model fee and resource caps from v1 transactionConfig for paymasters and co-sign
 
 - Source: https://github.com/nirholas/sponsor-cap-auditor
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
